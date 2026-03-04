@@ -1,4 +1,5 @@
-Amazon Sales Analysis Dashboard 📊
+##Amazon Sales Analysis Dashboard 📊
+
 Project Overview
 This project involves a deep dive into an extensive Amazon Sales dataset to transform over 78 Million INR worth of transaction data into a functional, interactive Excel Dashboard.
 
